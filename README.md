@@ -17,7 +17,7 @@ git clone https://github.com/RafaelMunarin/atividade-criptografia.git
 2. Acesse a pasta do projeto:
 
 ```bash
-cd atividade-criptografia-js
+cd atividade-criptografia
 ```
 
 3. Execute o programa:
